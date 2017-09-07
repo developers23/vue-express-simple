@@ -11,6 +11,8 @@
 
 __注意: 项目虽小，五脏俱全。😆😆__
 
+__视频介绍地址：http://v.youku.com/v_show/id_XMzAxMDEwMTQ0MA==.html?spm=a2hzp.8244740.0.0__
+
 ## 技术栈
 
 vue2 + vuex + vue-router + webpack + ES6 + express + mongo
